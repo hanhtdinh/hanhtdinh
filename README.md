@@ -1,8 +1,8 @@
 
 
-- Hi, I’m Hanh Dinh. I am currently a cloud application development student at Microsoft Software and Systems Academy. 
-- Background Info: I have spent the last three and half years in the U.S. Marine Corps as an ammunition technician. I was able to live in Japan for two years and travel to the    Phillipines! I'm now residing in sunny Southern California.
-- I am fascinated by how we can use technology to help humandkind solve everyday problems. Follow along my journey on learning how to code without any prior IT experience.
+- Hi, I’m Hanh Dinh. I am currently a third-year student at the University of California, San Diego majoring in Cognitive Science.
+- Graduate of Microsoft Software and Systems Academy, Cloud application development track | USMC Veteran | Warrior-Scholar Project STEM Fellow
+- I am fascinated by how we can use technology to help humandkind solve everyday problems. 
 - Hobbies: watching the sunset at the beach, practicing brush calligraphy, and trying out new boba shops!
 - Let's connect: https://www.linkedin.com/in/hanhtdinh/
 
